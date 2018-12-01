@@ -1,0 +1,12 @@
+#!citecollections
+URN#Description#Labelling property#Ordering property#License
+urn:cite2:cite:ctssns.v1:#Registry of CTS subnamespaces#urn:cite2:cite:ctssns.v1.description:##Public domain
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:cite:ctssns.v1.urn:#Cite2Urn#
+urn:cite2:cite:ctssns.v1.abbreviation:#String#
+urn:cite2:cite:ctssns.v1.uri:#String#
+urn:cite2:cite:ctssns.v1.contact:#String#
+urn:cite2:cite:ctssns.v1.description:#String#
+urn:cite2:cite:ctssns.v1.infourl:#String#
