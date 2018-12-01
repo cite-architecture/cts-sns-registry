@@ -11,4 +11,4 @@ The raw data for the published registry are managed in this repository as a CITE
 
 ## Submission process
 
-To propose a new CTS URN subnamepace, add a row for the proposed record to `subnamespaces.cex` and submit a pull request.  The email address identified as the contact  will be automatically notified of the result when the proposal has been processed.
+To propose a new CTS URN subnamepace, file a new issue in this repository's issue tracker using the template to "Propose new CTS URN subnamepaces".  You will be automatically notified of the result when the proposal has been processed.
