@@ -4,7 +4,7 @@ about: Template for submitting proposed CTS URN subnamespaces
 
 ---
 
-Please supply the following information:
+Please supply the following information.
 
 Subnamespace abbreviation:  
 
