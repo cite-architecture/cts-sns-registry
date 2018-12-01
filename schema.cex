@@ -11,3 +11,4 @@ urn:cite2:cite:ctssns.v1.contactname:#String#
 urn:cite2:cite:ctssns.v1.contactemail:#String#
 urn:cite2:cite:ctssns.v1.description:#String#
 urn:cite2:cite:ctssns.v1.infourl:#String#
+urn:cite2:cite:ctssns.v1.status:#String#current,deprecated
