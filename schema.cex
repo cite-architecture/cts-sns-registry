@@ -1,3 +1,12 @@
+#!citelibrary
+name#Registry of subnamespaces for the cts URN namespace
+urn#urn:cite2:cite:sns.v1:cts
+license#Public domain
+
+#!cexversion
+3.0
+
+
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
 urn:cite2:cite:ctssns.v1:#Registry of CTS subnamespaces#urn:cite2:cite:ctssns.v1.description:##Public domain
