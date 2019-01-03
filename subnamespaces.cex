@@ -1,5 +1,5 @@
 #!citedata
 urn#abbreviation#uri#contactname#contactemail#description#infourl#status
 urn:cite2:cite:ctssns.v1:greekLit#greekLit#http://chs.harvard.edu/ctsns/greekLit#Neel Smith#nsmith@holycross.edu#Ancient Greek texts known from manuscript transmission.#https://github.com/chs-tg/greekLit#current
-urn:cite2:cite:ctssns.v1:botcar#botcar# http://folio2.furman.edu/ns/botcar#Christopher W. Blackwell#christopher.blackwell@furman.edu#Texts related to the early scientific exploration of the Carolinas. Identified by the Botanica Caroliniana Project.#https://github.com/Eumaeus/fuCiteDX/blob/master/namespaces.md#current
+urn:cite2:cite:ctssns.v1:botcar#botcar#http://folio2.furman.edu/ns/botcar#Christopher W. Blackwell#christopher.blackwell@furman.edu#Texts related to the early scientific exploration of the Carolinas. Identified by the Botanica Caroliniana Project.#https://github.com/Eumaeus/fuCiteDX/blob/master/namespaces.md#current
 urn:cite2:cite:ctssns.v1:fufolio#fufolio#http://folio.furman.edu#Christopher W. Blackwell#christopher.blackwell@furman.edu#Miscellaneous modern literary texts for teaching and research at Furman University.#https://github.com/Eumaeus/fuCiteDX/blob/master/namespaces.md#current

@@ -1,0 +1,26 @@
+#!citelibrary
+name#Registry of subnamespaces for the cts URN namespace
+urn#urn:cite2:cite:sns.v1:cts
+license#Public domain
+
+#!cexversion
+3.0
+
+#!citecollections
+URN#Description#Labelling property#Ordering property#License
+urn:cite2:cite:ctssns.v1:#Registry of CTS subnamespaces#urn:cite2:cite:ctssns.v1.description:##Public domain
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:cite:ctssns.v1.urn:#Subnamespace URN#Cite2Urn#
+urn:cite2:cite:ctssns.v1.abbreviation:#Abbreviation#String#
+urn:cite2:cite:ctssns.v1.uri:#URI#String#
+urn:cite2:cite:ctssns.v1.description:#Description#String#
+urn:cite2:cite:ctssns.v1.infourl:#More information#String#
+urn:cite2:cite:ctssns.v1.status:#Status#String#current,deprecated
+
+#!citedata
+urn#abbreviation#uri#description#infourl#status
+urn:cite2:cite:ctssns.v1:greekLit#greekLit#http://chs.harvard.edu/ctsns/greekLit#Ancient Greek texts known from manuscript transmission.#https://github.com/chs-tg/greekLit#current
+urn:cite2:cite:ctssns.v1:botcar#botcar#http://folio2.furman.edu/ns/botcar#Texts related to the early scientific exploration of the Carolinas. Identified by the Botanica Caroliniana Project.#https://github.com/Eumaeus/fuCiteDX/blob/master/namespaces.md#current
+urn:cite2:cite:ctssns.v1:fufolio#fufolio#http://folio.furman.edu#Miscellaneous modern literary texts for teaching and research at Furman University.#https://github.com/Eumaeus/fuCiteDX/blob/master/namespaces.md#current
