@@ -15,4 +15,7 @@ The CTS URN subnamespace registry is in the public domain.
 
 ## Submission process
 
-To propose a new CTS URN subnamepace, file a new issue in this repository's issue tracker using the template to "Propose new CTS URN subnamepaces".  You will be automatically notified of the result when the proposal has been processed.
+-  To propose a **new CTS URN subnamepace**, file a new issue in this repository's issue tracker using the template to "Propose new CTS URN subnamepaces".  
+-  To **update data for an existing CTS URN subnamespace**,  file a new issue in this repository's issue tracker using the template to "Update existing subnamespace record".  
+
+You will be automatically notified of the result when the proposal has been processed.
