@@ -1,6 +1,9 @@
 ---
 name: Propose new CTS URN subnamespace
 about: Template for submitting proposed CTS URN subnamespaces
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
